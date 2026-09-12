@@ -176,8 +176,8 @@ My goal is to build a career in the AI field, strengthen my foundations in softw
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abirakhilji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirakhilji&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abirakhilji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abirakhilji&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
 
@@ -187,7 +187,7 @@ My goal is to build a career in the AI field, strengthen my foundations in softw
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abirakhilji&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=abirakhilji&theme=tokyonight&hide_border=true" width="70%" />
 
 <br/><br/>
 
@@ -212,4 +212,4 @@ My goal is to build a career in the AI field, strengthen my foundations in softw
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
-</div>
+</div> 
